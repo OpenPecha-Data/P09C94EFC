@@ -1,0 +1,37 @@
+id: P09C94EFC
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA15436
+  instance_id: http://purl.bdrc.io/resource/IE1KG11901
+  collection_id: http://purl.bdrc.io/resource/PR0ET004
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གསང་འདུས་སྟོང་ཐུན། ༼ས་སྐྱ་རྒྱལ་ཡོངས་གསུང་རབ་སློབ་གཉེར་ཁང་གི་གློག་ཀླད་པར་མ།༽
+  alt_title:
+    en-x-mixed:
+    - ʼGos kyi gsaṅ ʼdus stoṅ thun =The works of Gos khug-pa Lhas-btsas.
+  author: http://purl.bdrc.io/resource/P3458
+  publisher: GuruLamaWorks
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    0a44ab98ce57433e8aacf4d21a75a162:
+      title: ༄༅།་།བོད་ཀྱི་ལོ་ཙཱ་བ་ཆེན་པོ་མགོས་ཁུག་པ་ལྷས་བཙས་ཀྱིས་མཛད་པའི་གསང་འདུས་སྟོང་ཐུན་བཞུགས་སོ།་།ཨོཾ་སྭ་སྟི།རྒྱལ་བའི་ཆོས་ལ་མངའ་བརྙེས་བ
+      volume_number: 1
+      base_file: UT1KG11901_001_0000.txt
+      reference: http://purl.bdrc.io/resource/VL569F97D51759361C
+      image_group: null
+      quality: null
+    f609931bb6794d45ad8c67aaec0572ef:
+      title: ༠༠༡བོད་ཀྱི་ལོ་ཙཱ་བ་ཆེན་པོ་མགོས་ཁུག་པ་ལྷས་བཙས་ཀྱིས་མཛད་པའི་གསང་འདུས་སྟོང་ཐུན་བཞུགས་སོ།་།
+      volume_number: 2
+      base_file: UT1KG11901_002_0000.txt
+      reference: http://purl.bdrc.io/resource/VL40C0FB9D383FEF2E
+      image_group: null
+      quality: null
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG11901
+  - http://purl.bdrc.io/resource/W1KG11901
+created_at: '2021-12-22T10:31:01.866532'
+last_modified_at: '2021-12-22T10:31:01.866540'
